@@ -11,3 +11,5 @@ While at Olin, I took a year off and ended up starting [Luminaire Coffee Equipme
 Before I was full time at Luminaire, I worked as a software designer and engineer at [Involution Studios](http://www.goinvo.com) where I designed and built applications for various large companies.
 
 Most of the content on this website is from while I was still in college.
+
+You can contact me via [e-mail](mailto:ben.salinas@gmail.com).
