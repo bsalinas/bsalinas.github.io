@@ -1,0 +1,17 @@
+[
+    {
+        "href":"/salinas-family-recipes/",
+        "name":"Salinas Family Recipes",
+        "description":"A set of our family's recipes, digitized for easy access"
+    },
+    {
+        "href":"/FiveMoreTopics/",
+        "name":"Course Website for \"Five More Topics for Software Designers\"",
+        "description":"Course Website for a 1 credit course taught at Olin College in Fall 2014"
+    },
+    {
+        "href":"ArtOfRapidPrototyping.pdf",
+        "name":"Art of Rapid Prototyping conference talk [pdf]",
+        "description":"Slides from a UXPA Conference presentation on prototyping UI designs"
+    }
+]
