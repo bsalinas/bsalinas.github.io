@@ -13,5 +13,10 @@
         "href":"ArtOfRapidPrototyping.pdf",
         "name":"Art of Rapid Prototyping conference talk [pdf]",
         "description":"Slides from a UXPA Conference presentation on prototyping UI designs"
+    },
+    {
+        "href":"/IWantMySunRadio/",
+        "name":"Signal Locator for Sun Radio",
+        "description":"Sun Radio has a lot of signals across Central Texas. Use this tool to find your nearest Sun Radio station."
     }
 ]
